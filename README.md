@@ -26,11 +26,7 @@ _⚡ Uma solução robusta para controle de acesso, baseada em regras e permiss�
 _📰 Um sistema de blog completo e escalável, composto por:_  
 - **[Backend em Node.js](https://github.com/IvanBelshoff/backend-blog-fiap)** – API REST desenvolvida com TypeScript e Express.  
 - **[Frontend Web (React + MUI)](https://github.com/IvanBelshoff/frontend-blog-fiap)** – Interface moderna e responsiva para gerenciamento e leitura dos posts.  
-- **[Aplicativo Mobile (React Native)](https://github.com/IvanBelshoff/mobile-blog-fiap)** – Versão otimizada para dispositivos móveis, garantindo uma experiência fluida em qualquer tela.  
-
-📌 Para mais projetos e contribuições, confira meu [GitHub](https://github.com/IvanBelshoff).  
-
-Para mais projetos, confira meu [GitHub](https://github.com/IvanBelshoff).  
+- **[Aplicativo Mobile (React Native)](https://github.com/IvanBelshoff/mobile-blog-fiap)** – Versão otimizada para dispositivos móveis, garantindo uma experiência fluida em qualquer tela. 
 
 ## 🔒 Projetos Privados  
 
@@ -56,8 +52,6 @@ _🔄 Um sistema robusto para acompanhar pedidos e integrar dados entre bancos d
 
 📌 Esses projetos são **privados** porque fazem parte dos sistemas internos, mas mostram bem minha experiência em criar soluções escaláveis, organizadas e eficientes.  
 
----
-
 ## 🛠️ Habilidades  
 🔹 **Frontend:** React.js, Next.js, Expo Router  
 🔹 **Backend:** Node.js, Express, TypeScript, TypeORM  
@@ -65,8 +59,6 @@ _🔄 Um sistema robusto para acompanhar pedidos e integrar dados entre bancos d
 🔹 **DevOps:** Docker, GitHub Actions  
 🔹 **Validação & Autenticação:** Yup, Auth.js  
 🔹 **Outras Coisas Legais:** Power BI, APIs de IA, e um talento especial para quebrar código antes de consertá-lo  
-
----
 
 ## 🎢 Minha Jornada  
 
@@ -76,8 +68,6 @@ _🔄 Um sistema robusto para acompanhar pedidos e integrar dados entre bancos d
 🖥️ **Help Desk & TI** desde os tempos de Menor Aprendiz na Hortifruti S/A  
 
 De aprendiz de TI a desenvolvedor full stack, já passei por tudo: suporte, redes, manutenção de computadores, desenvolvimento de software, até chegar à construção de aplicações robustas e escaláveis.  
-
----
 
 ## 🎭 Fatos Divertidos  
 
